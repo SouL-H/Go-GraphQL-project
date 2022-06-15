@@ -28,7 +28,13 @@
 </p>
 
 #
+## Run
 
+```
+go run ./server.go //Server Started
+
+localhost:8080 //Browser
+```
 
 
 #### Thank you acklackl 
